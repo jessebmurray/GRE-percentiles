@@ -2,7 +2,7 @@
 
 ETS, which is the company that runs the GRE test, refuses to publish composite score data (verbal score + quantitative score). Instead, they only [publish the percentiles of the individual scores](https://www.ets.org/s/gre/pdf/gre_guide_table1a.pdf). 
 
-ETS argues that the two primary multiple-choice tests they offer (separate from the Analytical Writing portion), are two different measurements that should not be combined. This is unlike the SAT, in which the Verbal and Mathematical portions are typically combined (through addition). In [ETS's words](https://www.ets.org/s/gre/pdf/background_and_technical_information.pdf): *"The GRE program recommends keeping the GRE Verbal Reasoning and Quantitative Reasoning scores separate when making admissions decisions and, therefore, does not provide a total score.*"
+ETS argues that the two primary multiple-choice tests they offer (separate from the Analytical Writing portion), are two different measurements that should not be combined. This is unlike the SAT, in which the Verbal and Mathematical portions are typically combined (through addition). In [ETS's words](https://www.ets.org/s/gre/pdf/background_and_technical_information.pdf): *"The GRE program recommends keeping the GRE Verbal Reasoning and Quantitative Reasoning scores separate when making admissions decisions and, therefore, does not provide a total score".*
 
 
 However, ETS made one fateful mistake. They [published the multiple linear regression equation relating the GMAT score and GRE scores](https://www.ets.org/s/gre/pdf/background_and_technical_information.pdf), which was measured from test-takers who *"took both the GRE General Test and the GMAT exam under actual operational, high-stakes conditions"*. 
